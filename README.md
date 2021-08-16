@@ -1,4 +1,5 @@
 - 👋 Hi, I’m Abdulrahman Alkhateeb, a passionate, ambitious, and strong-willed computer scientist.
 - 👀 I’m interested in: Mathematics, Physics, Computer Science, Reading, Art, and Sports.
 - 🌱 I’m currently learning: Advanced Web Development.
+- 🙏 I attribute my talent and my success to God, and then to the amazing people who supported me throughout my journey.
 - 📫 How to reach me? Mail me at: abdoh.ash.8@gmail.com
